@@ -1,6 +1,6 @@
 import java.utils.Arraylist;
 
-
+//Bofend wuvs less
 public class Collection {
     ArrayList<Document> documents = new ArrayList<Document>();
     int last_id;
